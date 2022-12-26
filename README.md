@@ -10,20 +10,20 @@ Flummoxed operates on the stand "wasd" keyboard layout for movement, and the "sp
   <img src="https://drive.google.com/uc?export=download&id=1LpIFlhXicGM1wu3EYKCfGoG5SQtQ6ghn" alt="Flummoxed control screen"/>
 </p>
 
-Gameplay:
+Gameplay:\n
 The main game cycle of Flummoxed consists of the player attempting to dodge or destroy a series of obstacles which descend from the top, left, and right of the screen. Obstacles include asteroids and satellite, with later enemies being UFOs, which drop watermelon projectiles that split into two when hit, and a Brain "boss" enemy which fires green projectiles and a non-moving laser beam.
 
-Asteroids --
+Asteroids --\n
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1Hanca6ToUzCseRhlFO3vVoJV7KoauIA8" alt="Flummoxed control screen"/>
+  <img src="https://drive.google.com/uc?export=download&id=1Hanca6ToUzCseRhlFO3vVoJV7KoauIA8" alt="Asteroids"/>
 </p>
 
-UFOs --
+UFOs --\n
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1CjbwczeJqX_XREk1MUNC-yUqAoSk3YEy" alt="Flummoxed control screen"/>
+  <img src="https://drive.google.com/uc?export=download&id=1CjbwczeJqX_XREk1MUNC-yUqAoSk3YEy" alt="UFOs"/>
 </p>
 
-Brain --
+Brain --\n
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1DOrdHmkf9U9jpH89WDXepDbBbcRN319b" alt="Flummoxed control screen"/>
+  <img src="https://drive.google.com/uc?export=download&id=1DOrdHmkf9U9jpH89WDXepDbBbcRN319b" alt="Brain"/>
 </p>
