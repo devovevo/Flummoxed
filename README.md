@@ -1,10 +1,10 @@
 # Flummoxed
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1vQ6eT8icyrsZ9xiNyeZZk3uSFXH7N6GH" alt="Flummoxed title screen"/>
+  <img src="https://drive.google.com/uc?export=download&id=1asUg0rv2EhinvAYyQyvpxEWB2MMUXoVE" alt="Flummoxed title screen"/>
 </p>
 80's arcade game inspired by Asteroids which was created in Unity over the course of 4 months. It won 6th place in the Computer Game & Simulation Programming event at the 2022 FBLA National Conference in Chicago. For a detailed discussion of the game, see the information below.
 
-Controls:
+Controls:\n
 Flummoxed operates on the stand "wasd" keyboard layout for movement, and the "space" key for firing. This changes, however, in 2-player mode, where one player utilizes these standard controls and the other player controls their ships movement using the mouse (i.e. the ship follows their cursor), and fires by left-clicking.
 <p align="center">
   <img src="https://drive.google.com/uc?export=download&id=1LpIFlhXicGM1wu3EYKCfGoG5SQtQ6ghn" alt="Flummoxed control screen"/>
