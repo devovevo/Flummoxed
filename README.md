@@ -1,8 +1,8 @@
 # Flummoxed
+Flummoxed is an 80's arcade game inspired by Asteroids which was created in Unity over the course of 4 months. It won 6th place in the Computer Game & Simulation Programming event at the 2022 FBLA National Conference in Chicago. For a detailed discussion of the game, see the information below.  
 <p align="center">
   <img src="https://drive.google.com/uc?export=download&id=1asUg0rv2EhinvAYyQyvpxEWB2MMUXoVE" alt="Flummoxed title screen"/>
 </p>
-80's arcade game inspired by Asteroids which was created in Unity over the course of 4 months. It won 6th place in the Computer Game & Simulation Programming event at the 2022 FBLA National Conference in Chicago. For a detailed discussion of the game, see the information below.  
 
 
 Controls:  
